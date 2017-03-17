@@ -1,2 +1,2 @@
 # lsd
-List directories
+A c++ program to list directories.
